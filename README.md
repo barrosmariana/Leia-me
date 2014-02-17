@@ -1,7 +1,6 @@
 Leia-me
 =======
 $ mkdir ~ / Olá Mundo 
-# Cria um diretorio para seu projeto chamado "Olá Mundo" no seu diretório de usuário
 
 $ cd ~ / Olá Mundo 
 # Muda o diretório de trabalho atual para o diretório recém-criado 
